@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Nightgreen1/pokemon-cand-",
+  "homepage": "https://Nightgreen1.github.io/pokemon-cand",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
